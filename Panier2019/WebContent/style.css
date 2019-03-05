@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+article, label{
+	background-color: #ccc;
+	display:flex;
+	flex-direction: column;
+	
+}]
